@@ -21,6 +21,7 @@
     # user selected packages
     pkgs.helix
     pkgs.emacs
+    pkgs.aria
     # Fleek Bling
     pkgs.git
     pkgs.htop

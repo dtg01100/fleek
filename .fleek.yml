@@ -16,6 +16,7 @@ overlays: {}
 packages:
     - helix
     - emacs
+    - aria
 paths:
     - $HOME/bin
     - $HOME/.local/bin
