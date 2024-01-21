@@ -23,6 +23,7 @@
     pkgs.emacs
     pkgs.aria
     pkgs.yt-dlp
+    pkgs.ytmdl
     # Fleek Bling
     pkgs.git
     pkgs.htop
