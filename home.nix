@@ -22,6 +22,7 @@
     pkgs.helix
     pkgs.emacs
     pkgs.aria
+    pkgs.yt-dlp
     # Fleek Bling
     pkgs.git
     pkgs.htop
