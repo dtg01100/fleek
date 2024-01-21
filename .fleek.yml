@@ -19,6 +19,7 @@ packages:
     - aria
     - yt-dlp
     - ytmdl
+    - jetbrains.pycharm-community
 paths:
     - $HOME/bin
     - $HOME/.local/bin
