@@ -25,6 +25,7 @@
     pkgs.yt-dlp
     pkgs.ytmdl
     pkgs.jetbrains.pycharm-community
+    pkgs.gitkraken
     # Fleek Bling
     pkgs.git
     pkgs.htop

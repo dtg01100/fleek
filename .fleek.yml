@@ -20,6 +20,7 @@ packages:
     - yt-dlp
     - ytmdl
     - jetbrains.pycharm-community
+    - gitkraken
 paths:
     - $HOME/bin
     - $HOME/.local/bin
