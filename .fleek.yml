@@ -2,7 +2,7 @@ aliases:
     fleeks: cd ~/.local/share/fleek
 allow_broken: false
 auto_gc: false
-bling: normal
+bling: high
 blocklist: []
 byo_git: false
 ejected: false
