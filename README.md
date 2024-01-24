@@ -19,4 +19,6 @@ $ apply-$(hostname)
 ```
 
 Your actual aliases are listed below:
-    fleeks = "cd ~/.local/share/fleek";
+    apply-david-laptop = "nix run --impure home-manager/master -- -b bak switch --flake .#dlafreniere@david-laptop";
+
+    fleeks = "cd ~/.config/fleek";
