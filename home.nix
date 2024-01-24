@@ -24,6 +24,7 @@
     pkgs.aria
     pkgs.yt-dlp
     pkgs.ytmdl
+    pkgs.pycharm-community
     # Fleek Bling
     pkgs.git
     pkgs.htop
