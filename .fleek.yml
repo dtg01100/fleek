@@ -21,10 +21,11 @@ packages:
     - aria
     - yt-dlp
     - ytmdl
-    - jetbrains.pycharm-community
 paths:
     - $HOME/bin
     - $HOME/.local/bin
+    - $HOME/.nix-profile/bin
+    - /nix/var/nix/profiles/default/bin
 programs:
     - dircolors
 shell: bash
