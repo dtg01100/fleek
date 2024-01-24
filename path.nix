@@ -3,7 +3,5 @@
  home.sessionPath = [ 
     "$HOME/bin"
     "$HOME/.local/bin"
-    "$HOME/.nix-profile/bin"
-    "/nix/var/nix/profiles/default/bin"
  ];
 }
