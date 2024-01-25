@@ -19,7 +19,6 @@
   # programs are installed and configuration applied to dotfiles
   home.packages = [
     # user selected packages
-    pkgs.helix
     pkgs.emacs
     pkgs.aria
     pkgs.yt-dlp
