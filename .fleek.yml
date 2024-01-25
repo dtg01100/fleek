@@ -1,7 +1,5 @@
 aliases:
     fleeks: cd ~/.local/share/fleek
-allow_broken: false
-auto_gc: false
 bling: high
 blocklist: []
 byo_git: false
@@ -21,6 +19,7 @@ packages:
     - yt-dlp
     - ytmdl
     - jetbrains.pycharm-community
+    - unoconv
 paths:
     - $HOME/bin
     - $HOME/.local/bin
@@ -29,26 +28,12 @@ programs:
 shell: bash
 systems:
     - arch: x86_64
-      home: ""
       hostname: david-laptop
       os: linux
-      user:
-        email: dlafreniere349@gmail.com
-        name: David LaFreniere
-        ssh_private_key_file: ""
-        ssh_public_key_file: ""
-        username: dlafreniere
       username: dlafreniere
     - arch: x86_64
-      home: ""
       hostname: david-desktop
       os: linux
-      user:
-        email: dlafreniere349@gmail.com
-        name: David LaFreniere
-        ssh_private_key_file: ""
-        ssh_public_key_file: ""
-        username: dlafreniere
       username: dlafreniere
 track: nixos-unstable
 unfree: true
