@@ -20,6 +20,7 @@ packages:
     - ytmdl
     - jetbrains.pycharm-community
     - unoconv
+    - nomachine-client
 paths:
     - $HOME/bin
     - $HOME/.local/bin
