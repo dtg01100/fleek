@@ -24,7 +24,7 @@
     pkgs.yt-dlp
     pkgs.ytmdl
     pkgs.jetbrains.pycharm-community
-    pkgs.nomachine-client
+    pkgs.unoconv
     # Fleek Bling
     pkgs.git
     pkgs.htop
