@@ -19,7 +19,6 @@ packages:
     - yt-dlp
     - ytmdl
     - jetbrains.pycharm-community
-    - unoconv
     - nomachine-client
 paths:
     - $HOME/bin
