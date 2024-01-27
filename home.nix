@@ -25,6 +25,7 @@
     pkgs.ytmdl
     pkgs.jetbrains.pycharm-community
     pkgs.nomachine-client
+    pkgs.qemu
     # Fleek Bling
     pkgs.git
     pkgs.htop

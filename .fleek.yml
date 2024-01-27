@@ -20,6 +20,7 @@ packages:
     - ytmdl
     - jetbrains.pycharm-community
     - nomachine-client
+    - qemu
 paths:
     - $HOME/bin
     - $HOME/.local/bin
