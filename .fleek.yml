@@ -19,7 +19,6 @@ packages:
     - yt-dlp
     - ytmdl
     - jetbrains.pycharm-community
-    - nomachine-client
     - qemu
 paths:
     - $HOME/bin
