@@ -20,6 +20,7 @@ packages:
     - ytmdl
     - qemu
     - nomachine-client
+    - ncdu
 paths:
     - $HOME/bin
     - $HOME/.local/bin

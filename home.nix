@@ -25,6 +25,7 @@
     pkgs.ytmdl
     pkgs.qemu
     pkgs.nomachine-client
+    pkgs.ncdu
     # Fleek Bling
     pkgs.git
     pkgs.htop
