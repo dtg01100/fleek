@@ -26,6 +26,7 @@
     pkgs.qemu
     pkgs.nomachine-client
     pkgs.ncdu
+    pkgs.rustdesk
     # Fleek Bling
     pkgs.git
     pkgs.htop

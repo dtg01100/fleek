@@ -21,6 +21,7 @@ packages:
     - qemu
     - nomachine-client
     - ncdu
+    - rustdesk
 paths:
     - $HOME/bin
     - $HOME/.local/bin
